@@ -1,0 +1,1 @@
+{"id":"51f1641c-4215-3bf7-9991-e5d21cccb1b4","name":"OpenStack","values":[{"key":"host","value":"http://localhost","type":"text"},{"key":"token","value":"","type":"text"},{"key":"tenant","value":"","type":"text"},{"key":"port","value":"8776","type":"text"}],"timestamp":1361860544087}
